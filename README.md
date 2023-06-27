@@ -11,6 +11,14 @@
   <h2>Live Demo</h2>
   <p>A live demo of this project can be accessed at: <a href="https://rehab-adel.github.io/Abstract-Help-Center/" target="_blank">https://rehab-adel.github.io/Abstract-Help-Center/</a></p>
 
+  <h2>Languages and Tools</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Git</li>
+    <li>GitHub</li>
+  </ul>
+
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository: <code>git clone https://github.com/rehab-adel/Abstract-Help-Center.git</code></li>
@@ -28,4 +36,3 @@
   <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 </body>
 </html>
-
