@@ -9,7 +9,7 @@
   <p>This project is a clone of the <a href="https://help.abstract.com/hc/en-us" target="_blank">Abstract Help Center</a>. It provides a user-friendly interface to access help articles and support information.</p>
 
   <h2>Live Demo</h2>
-  <p>A live demo of this project can be accessed at: <a href="https://CodeFairyTail.github.io/Abstract-Help-Center/" target="_blank">https://CodeFairyTail.github.io/Abstract-Help-Center/</a></p>
+  <p>A live demo of this project can be accessed at: <a href="https://Rehab-Adel.github.io/Abstract-Help-Center/" target="_blank">https://Rehab-Adel.github.io/Abstract-Help-Center/</a></p>
 
   <h2>Languages and Tools</h2>
   <ul>
@@ -21,7 +21,7 @@
 
   <h2>Installation</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/CodeFairyTail/Abstract-Help-Center.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/Rehab-Adel/Abstract-Help-Center.git</code></li>
     <li>Navigate to the project directory: <code>cd Abstract-Help-Center</code></li>
     <li>Open the index.html file in your web browser.</li>
   </ol>
